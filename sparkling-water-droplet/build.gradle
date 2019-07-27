@@ -4,6 +4,8 @@
  * For more details please follow README.md.
  */
 
+//This is a test comment to check GIT COMMIT.
+
 // Apply the java plugin to add support for Java
 apply plugin: 'scala'
 // Support idea and Eclipse IDEs
